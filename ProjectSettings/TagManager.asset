@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DestroyObject
+  - Gardener
+  - Madman
+  - Weapon
+  - LockOnUI
+  - LiveCamera
+  - Feet
+  - Center
+  - OneEyeLaserPosition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Unit
+  - Hitbox
+  - PreventUnitPush
+  - Hurtbox
+  - PushBox
+  - Wall
+  - CorpseBox
+  - OnlyWallBox
+  - FeetBox
+  - InteractBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Land
+    uniqueID: 2380310841
+    locked: 0
+  - name: UnitShadow
+    uniqueID: 2098646225
+    locked: 0
+  - name: Unit
+    uniqueID: 1207302123
+    locked: 0
+  - name: Weapon
+    uniqueID: 3682074503
+    locked: 0
+  - name: Projectile
+    uniqueID: 2618744255
+    locked: 0
+  - name: UI
+    uniqueID: 2594526135
+    locked: 0

@@ -71,3 +71,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Assets
+Assets/AnimationImporter
+Assets/2d-extras-2023.3
+Assets/AllIn1SpriteShader
+Assets/AstarPathfindingProject
+Assets/Behavior Designer
+Assets/Behavior Designer Tutorials
+Assets/Dialogue
+Assets/Gizmos
+Assets/PlayMaker
+Assets/Plugins
+Assets/Sprites
